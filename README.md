@@ -21,4 +21,5 @@
 * For the Light Diffuser is reccomended 100% infill.
 #
 # Code:
-* It makes the lamp turning on only if the PIR sensor is active and a capacitive output is actioned.
+* It makes the lamp turning on only if the PIR sensor is active and a capacitive input is actioned.
+* Each capacitive input represents a brigthness level.
