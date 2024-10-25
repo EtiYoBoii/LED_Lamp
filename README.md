@@ -16,7 +16,7 @@
 # Schematic:
 * It needs some rework:)
 #
-# STLs:
+# STLs: !!!NLA!!!
 * You can print them with your own settings.
 * For the Light Diffuser is reccomended 100% infill.
 #
