@@ -5,7 +5,7 @@
 #  Hardware used:
 * GroundStudio NANO+(Arduino Nano Clone)
 * 18B20 Temperature Sensor
-* CJMCU_0401 Capacitive Touch Sensor with 4 Outputs
+* CJMCU_0401 Capacitive Touch Sensor with 4 inputs
 * PIR Sensor
 * PWM Module
 * Boost-Buck Converter 5-32VDC to 1.2-35VDC
@@ -16,9 +16,9 @@
 # Schematic:
 * It needs some rework:)
 #
-# STLs: !!!NLA!!!
+# STLS:
 * You can print them with your own settings.
-* For the Light Diffuser is reccomended 100% infill.
+* For the Light Diffuser is recoMmended 100% infill.
 #
 # Code:
 * It makes the lamp turning on only if the PIR sensor is active and a capacitive input is actioned.
